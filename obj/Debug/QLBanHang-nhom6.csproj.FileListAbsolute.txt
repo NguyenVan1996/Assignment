@@ -1,0 +1,4 @@
+C:\Users\nguye\OneDrive\Documents\Visual Studio 2012\Projects\QLBanHang-nhom6\QLBanHang-nhom6\QLBanHang-nhom6\bin\QLBanHang-nhom6.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio 2012\Projects\QLBanHang-nhom6\QLBanHang-nhom6\QLBanHang-nhom6\bin\QLBanHang-nhom6.pdb
+C:\Users\nguye\OneDrive\Documents\Visual Studio 2012\Projects\QLBanHang-nhom6\QLBanHang-nhom6\QLBanHang-nhom6\obj\Debug\QLBanHang-nhom6.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio 2012\Projects\QLBanHang-nhom6\QLBanHang-nhom6\QLBanHang-nhom6\obj\Debug\QLBanHang-nhom6.pdb
