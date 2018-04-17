@@ -103,7 +103,7 @@
                 	<li><a href="#">Balo</a></li> 
                 </div>
                 <div class="duong">                
-                    <li><a href="#">Dây lưng</a></li>    
+                    <li><a href="#">Dây lưng da bò</a></li>    
                 </div>                        
                 </ul> 
             </li>     
