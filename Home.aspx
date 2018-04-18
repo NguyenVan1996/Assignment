@@ -100,7 +100,7 @@
             <li><a href="#">PHỤ KIỆN</a>
             	<ul> 
                 <div class="duong">                 
-                	<li><a href="#">Balo</a></li> 
+                	<li><a href="#">Balo Đăng ăn lozz</a></li> 
                 </div>
                 <div class="duong">                
                     <li><a href="#">Dây lưng da bò</a></li>    
